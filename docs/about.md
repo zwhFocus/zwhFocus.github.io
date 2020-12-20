@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+语言创造出来是为了更好的理解事物，而不是捏造一些晦涩难懂概念，当可以用更形象的事物去描述一件事时，使用一些貌似高大上的术语，和简洁的语句或图片相比未免相形见绌！
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+另一种现象：不必深究创造出来的一些抽象的概念，比如什么是面向对象，除非你可以用非常形象的事物贴切的说服知道这个概念的许多人。
